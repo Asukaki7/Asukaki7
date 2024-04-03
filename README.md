@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-97%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-95%20hrs%2047%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-40-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-111-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -38,5 +38,5 @@ Windows                  6 hrs 58 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜�
 ```
 
 
- Last Updated on 03/04/2024 09:01:11 UTC
+ Last Updated on 03/04/2024 18:31:57 UTC
 <!--END_SECTION:waka-->

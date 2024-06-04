@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning modernC++
+- 🌱 I’m currently learning modernC++,Objective C.
 <!--
 **Asukaki7/Asukaki7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

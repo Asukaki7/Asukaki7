@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-27-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-494%20hrs%2012%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-101-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -31,5 +33,5 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 22/02/2025 12:10:57 UTC
+ Last Updated on 22/02/2025 18:38:19 UTC
 <!--END_SECTION:waka-->

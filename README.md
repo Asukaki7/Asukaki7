@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-494%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-494%20hrs%2045%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -23,15 +23,16 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-C++                      15 mins             █████████████████████████   100.00 % 
+C++                      22 mins             █████████████████░░░░░░░░   68.51 % 
+JSON                     10 mins             ████████░░░░░░░░░░░░░░░░░   31.49 % 
 
 🔥 Editors: 
-VS Code                  15 mins             █████████████████████████   100.00 % 
+VS Code                  33 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  15 mins             █████████████████████████   100.00 % 
+Windows                  33 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 13/03/2025 18:42:32 UTC
+ Last Updated on 14/03/2025 18:41:10 UTC
 <!--END_SECTION:waka-->

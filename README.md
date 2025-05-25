@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-542%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-544%20hrs%2035%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-91-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -37,5 +37,5 @@ WSL                      2 hrs 28 mins       ███████████�
 ```
 
 
- Last Updated on 25/05/2025 05:35:17 UTC
+ Last Updated on 25/05/2025 18:42:00 UTC
 <!--END_SECTION:waka-->

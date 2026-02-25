@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C151%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C153%20hrs%2016%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -23,15 +23,16 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Objective-C              1 hr 41 mins        █████████████████████████   100.00 % 
+Objective-C              3 hrs 12 mins       ███████████████████████░░   93.47 % 
+XML                      13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
 
 🔥 Editors: 
-Xcode                    1 hr 41 mins        █████████████████████████   100.00 % 
+Xcode                    3 hrs 26 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 41 mins        █████████████████████████   100.00 % 
+Mac                      3 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 24/02/2026 19:28:09 UTC
+ Last Updated on 25/02/2026 19:30:25 UTC
 <!--END_SECTION:waka-->

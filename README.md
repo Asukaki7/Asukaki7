@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C180%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C180%20hrs%2011%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -23,22 +23,22 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Objective-C              16 hrs 21 mins      ███████████████████░░░░░░   76.81 % 
-Other                    2 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
-Markdown                 52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
-CocoaPods                20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
-JavaScript               17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+Objective-C              12 hrs 37 mins      ████████████████████░░░░░   80.28 % 
+Other                    1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
+CocoaPods                20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+Markdown                 18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+TypeScript               15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
 
 🔥 Editors: 
-Xcode                    16 hrs 55 mins      ████████████████████░░░░░   79.49 % 
-Zoom                     2 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-Cursor                   1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
-Notes                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Xcode                    13 hrs 10 mins      █████████████████████░░░░   83.75 % 
+Zoom                     1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
+Cursor                   52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+Notes                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 💻 Operating System: 
-Mac                      21 hrs 18 mins      █████████████████████████   100.00 % 
+Mac                      15 hrs 43 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 06/03/2026 19:05:59 UTC
+ Last Updated on 07/03/2026 18:52:45 UTC
 <!--END_SECTION:waka-->

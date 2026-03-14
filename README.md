@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C182%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C182%20hrs%2030%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -23,20 +23,20 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 55 mins        ███████████████████░░░░░░   74.15 % 
-Ruby                     16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
-JSON                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
-YAML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
-Objective-C              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+TypeScript               1 hr 56 mins        ██████████████████░░░░░░░   70.43 % 
+Ruby                     16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
+Objective-C              11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+JSON                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
+YAML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
 
 🔥 Editors: 
-Cursor                   1 hr 50 mins        ██████████████████░░░░░░░   71.15 % 
-VS Code                  44 mins             ███████░░░░░░░░░░░░░░░░░░   28.85 % 
+Cursor                   1 hr 52 mins        █████████████████░░░░░░░░   68.01 % 
+VS Code                  53 mins             ████████░░░░░░░░░░░░░░░░░   31.99 % 
 
 💻 Operating System: 
-Mac                      2 hrs 35 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 13/03/2026 19:04:35 UTC
+ Last Updated on 14/03/2026 18:59:45 UTC
 <!--END_SECTION:waka-->

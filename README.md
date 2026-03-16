@@ -23,20 +23,20 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 56 mins        ██████████████████░░░░░░░   70.43 % 
-Ruby                     16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
-Objective-C              11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-JSON                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
-YAML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
+TypeScript               1 hr 1 min          ██████████████░░░░░░░░░░░   57.90 % 
+Ruby                     16 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
+Objective-C              11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
+YAML                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
 
 🔥 Editors: 
-Cursor                   1 hr 52 mins        █████████████████░░░░░░░░   68.01 % 
-VS Code                  53 mins             ████████░░░░░░░░░░░░░░░░░   31.99 % 
+VS Code                  1 hr 5 mins         ███████████████░░░░░░░░░░   61.60 % 
+Cursor                   40 mins             ██████████░░░░░░░░░░░░░░░   38.40 % 
 
 💻 Operating System: 
-Mac                      2 hrs 46 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 46 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 15/03/2026 19:01:09 UTC
+ Last Updated on 16/03/2026 19:31:37 UTC
 <!--END_SECTION:waka-->

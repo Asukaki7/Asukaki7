@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C201%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C205%20hrs%2020%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
@@ -23,23 +23,23 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Objective-C              11 hrs 1 min        ██████████████░░░░░░░░░░░   57.70 % 
-Other                    2 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
-Markdown                 1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
-Objective-C++            51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
-YAML                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+Objective-C              10 hrs 13 mins      ███████████████░░░░░░░░░░   61.96 % 
+Other                    2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
+Markdown                 1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
+Objective-C++            51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
+JSON                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
 
 🔥 Editors: 
-Xcode                    13 hrs 6 mins       █████████████████░░░░░░░░   68.63 % 
-VS Code                  4 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   21.56 % 
-Zoom                     1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
-Cursor                   27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
-Notes                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+Xcode                    12 hrs 15 mins      ███████████████████░░░░░░   74.25 % 
+VS Code                  2 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
+Zoom                     1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
+Cursor                   19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+Notes                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 
 💻 Operating System: 
-Mac                      19 hrs 5 mins       █████████████████████████   100.00 % 
+Mac                      16 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 31/03/2026 19:31:10 UTC
+ Last Updated on 01/04/2026 19:33:46 UTC
 <!--END_SECTION:waka-->

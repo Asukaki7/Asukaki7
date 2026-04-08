@@ -23,21 +23,17 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Objective-C              33 mins             ████████████████░░░░░░░░░   64.81 % 
-TypeScript               9 mins              █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
-CocoaPods                7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
-JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+CocoaPods                7 mins              ████████████████████░░░░░   79.83 % 
+TypeScript               1 min               █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
 
 🔥 Editors: 
-Xcode                    33 mins             ████████████████░░░░░░░░░   64.81 % 
-VS Code                  16 mins             ████████░░░░░░░░░░░░░░░░░   31.53 % 
-Cursor                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+VS Code                  7 mins              ████████████████████░░░░░   79.83 % 
+Cursor                   1 min               █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
 
 💻 Operating System: 
-Mac                      52 mins             █████████████████████████   100.00 % 
+Mac                      8 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 07/04/2026 19:34:34 UTC
+ Last Updated on 08/04/2026 19:43:56 UTC
 <!--END_SECTION:waka-->

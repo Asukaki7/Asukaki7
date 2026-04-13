@@ -23,15 +23,20 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               17 mins             █████████████████████░░░░   85.05 % 
+Ruby                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+Objective-C              0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Objective-C++            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  20 mins             █████████████████████████   99.95 % 
+Unknown Editor           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      20 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 12/04/2026 19:10:19 UTC
+ Last Updated on 13/04/2026 19:44:32 UTC
 <!--END_SECTION:waka-->

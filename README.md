@@ -15,29 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C207%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C208%20hrs%2013%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
-📊 **This Week I Spent My Time On** 
 
-```text
-💬 Programming Languages: 
-TypeScript               45 mins             █████████░░░░░░░░░░░░░░░░   37.19 % 
-Objective-C              19 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
-Other                    17 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
-YAML                     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
-Markdown                 12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
-
-🔥 Editors: 
-Cursor                   1 hr                ████████████░░░░░░░░░░░░░   49.49 % 
-Unknown Editor           41 mins             ████████░░░░░░░░░░░░░░░░░   33.65 % 
-VS Code                  20 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
-
-💻 Operating System: 
-Mac                      2 hrs 2 mins        █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 15/04/2026 19:46:41 UTC
+ Last Updated on 16/04/2026 19:40:24 UTC
 <!--END_SECTION:waka-->

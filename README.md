@@ -17,27 +17,27 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C216%20hrs%2019%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 9 mins         ███████░░░░░░░░░░░░░░░░░░   28.01 % 
-JSON                     41 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
-Other                    31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
-Markdown                 30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
-JavaScript               23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
+CocoaPods                56 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
+TypeScript               53 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+JSON                     47 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
+Objective-C              41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
+Markdown                 38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
 
 🔥 Editors: 
-Cursor                   3 hrs 2 mins        ██████████████████░░░░░░░   73.93 % 
-Unknown Editor           43 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
-VS Code                  20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
+Cursor                   4 hrs 40 mins       ██████████████████████░░░   86.57 % 
+Unknown Editor           43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Mac                      4 hrs 6 mins        █████████████████████████   100.00 % 
+Mac                      5 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 19/04/2026 19:11:27 UTC
+ Last Updated on 20/04/2026 19:37:29 UTC
 <!--END_SECTION:waka-->

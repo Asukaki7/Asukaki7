@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C216%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C217%20hrs%2057%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -23,21 +23,20 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-CocoaPods                56 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
-TypeScript               53 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-JSON                     47 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
-Objective-C              41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
-Markdown                 38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
+CocoaPods                56 mins             █████░░░░░░░░░░░░░░░░░░░░   20.70 % 
+Objective-C              48 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.85 % 
+JSON                     44 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
+TypeScript               42 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
+Markdown                 27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
 
 🔥 Editors: 
-Cursor                   4 hrs 40 mins       ██████████████████████░░░   86.57 % 
-Unknown Editor           43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Cursor                   4 hrs 21 mins       ████████████████████████░   95.18 % 
+Unknown Editor           13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
 
 💻 Operating System: 
-Mac                      5 hrs 23 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 20/04/2026 19:37:29 UTC
+ Last Updated on 21/04/2026 19:42:30 UTC
 <!--END_SECTION:waka-->

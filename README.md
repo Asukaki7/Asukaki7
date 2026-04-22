@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C217%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C218%20hrs%2020%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -23,20 +23,20 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-CocoaPods                56 mins             █████░░░░░░░░░░░░░░░░░░░░   20.70 % 
-Objective-C              48 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.85 % 
-JSON                     44 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
-TypeScript               42 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
-Markdown                 27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+CocoaPods                56 mins             █████░░░░░░░░░░░░░░░░░░░░   21.28 % 
+JSON                     44 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
+TypeScript               44 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
+Objective-C              42 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
+Markdown                 27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
 
 🔥 Editors: 
-Cursor                   4 hrs 21 mins       ████████████████████████░   95.18 % 
-Unknown Editor           13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+Cursor                   4 hrs 26 mins       █████████████████████████   99.75 % 
+Unknown Editor           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 💻 Operating System: 
-Mac                      4 hrs 34 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 21/04/2026 19:42:30 UTC
+ Last Updated on 22/04/2026 19:44:07 UTC
 <!--END_SECTION:waka-->

@@ -23,20 +23,20 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Kotlin                   1 hr 38 mins        ███████████░░░░░░░░░░░░░░   42.79 % 
-TypeScript               59 mins             ██████░░░░░░░░░░░░░░░░░░░   25.94 % 
-Other                    21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
-Objective-C              15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
-TOML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+Kotlin                   1 hr 38 mins        ████████████░░░░░░░░░░░░░   46.23 % 
+TypeScript               59 mins             ███████░░░░░░░░░░░░░░░░░░   28.03 % 
+Other                    21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
+TOML                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+Markdown                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
 
 🔥 Editors: 
-Cursor                   2 hrs 4 mins        ██████████████░░░░░░░░░░░   54.28 % 
-Unknown Editor           1 hr 44 mins        ███████████░░░░░░░░░░░░░░   45.72 % 
+Cursor                   2 hrs 4 mins        ███████████████░░░░░░░░░░   58.71 % 
+Unknown Editor           1 hr 27 mins        ██████████░░░░░░░░░░░░░░░   41.29 % 
 
 💻 Operating System: 
-Mac                      3 hrs 49 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 04/05/2026 19:58:47 UTC
+ Last Updated on 05/05/2026 19:54:58 UTC
 <!--END_SECTION:waka-->

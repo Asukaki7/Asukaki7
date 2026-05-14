@@ -19,25 +19,6 @@ Here are some ideas to get you started:
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-📊 **This Week I Spent My Time On** 
 
-```text
-💬 Programming Languages: 
-Objective-C              1 hr 45 mins        █████████████░░░░░░░░░░░░   51.00 % 
-Other                    36 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
-Markdown                 23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
-TypeScript               19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
-YAML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
-
-🔥 Editors: 
-Cursor                   2 hrs 55 mins       █████████████████████░░░░   84.92 % 
-VS Code                  23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
-Unknown Editor           8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
-
-💻 Operating System: 
-Mac                      3 hrs 26 mins       █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 13/05/2026 20:13:46 UTC
+ Last Updated on 14/05/2026 20:09:48 UTC
 <!--END_SECTION:waka-->

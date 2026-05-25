@@ -23,23 +23,23 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Objective-C              10 hrs 11 mins      █████████████░░░░░░░░░░░░   51.57 % 
-Other                    4 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   24.08 % 
-TypeScript               1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
-Markdown                 1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
-JavaScript               35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+Objective-C              9 hrs 7 mins        █████████████░░░░░░░░░░░░   53.09 % 
+Other                    3 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   23.13 % 
+Markdown                 1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
+JavaScript               1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+TypeScript               58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
 
 🔥 Editors: 
-Xcode                    10 hrs 5 mins       █████████████░░░░░░░░░░░░   51.03 % 
-Claude Code              4 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   24.18 % 
-Zoom                     3 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
-Cursor                   1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
-Notes                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Xcode                    8 hrs 21 mins       ████████████░░░░░░░░░░░░░   48.65 % 
+Zoom                     3 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
+Claude Code              3 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
+Cursor                   1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+Notes                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 
 💻 Operating System: 
-Mac                      19 hrs 46 mins      █████████████████████████   100.00 % 
+Mac                      17 hrs 11 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 24/05/2026 19:44:36 UTC
+ Last Updated on 25/05/2026 20:03:42 UTC
 <!--END_SECTION:waka-->

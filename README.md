@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C274%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C276%20hrs%2034%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -23,23 +23,23 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Markdown                 4 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   26.10 % 
-Objective-C              3 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   21.73 % 
-Kotlin                   2 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
-Other                    2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
-JavaScript               2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
+Objective-C              4 hrs 35 mins       ████████░░░░░░░░░░░░░░░░░   30.89 % 
+Markdown                 3 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   25.04 % 
+Kotlin                   2 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
+Other                    1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+JavaScript               1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   27.58 % 
-Cursor                   3 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
-Xcode                    3 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   20.06 % 
-Claude Code              2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
-Zoom                     1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
+Xcode                    4 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   29.68 % 
+VS Code                  4 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   28.07 % 
+Cursor                   3 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   21.51 % 
+Zoom                     1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
+Claude Code              1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
 
 💻 Operating System: 
-Mac                      15 hrs 27 mins      █████████████████████████   100.00 % 
+Mac                      14 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 01/06/2026 21:45:28 UTC
+ Last Updated on 02/06/2026 21:26:06 UTC
 <!--END_SECTION:waka-->

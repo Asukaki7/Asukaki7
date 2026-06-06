@@ -15,10 +15,31 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C283%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C285%20hrs%2035%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 05/06/2026 20:19:05 UTC
+```text
+💬 Programming Languages: 
+Objective-C              6 hrs 34 mins       █████████████░░░░░░░░░░░░   53.47 % 
+Markdown                 2 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
+Other                    1 hr 47 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+Kotlin                   51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+Ruby                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+
+🔥 Editors: 
+Xcode                    4 hrs 20 mins       █████████░░░░░░░░░░░░░░░░   35.30 % 
+Cursor                   3 hrs 54 mins       ████████░░░░░░░░░░░░░░░░░   31.86 % 
+Claude Code              1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
+VS Code                  1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
+Notes                    29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+
+💻 Operating System: 
+Mac                      12 hrs 16 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 06/06/2026 19:50:03 UTC
 <!--END_SECTION:waka-->

@@ -15,31 +15,31 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C357%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C359%20hrs%2058%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Objective-C              8 hrs 43 mins       ███████████████░░░░░░░░░░   59.23 % 
-Other                    2 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
-Markdown                 1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
-Objective-C++            25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
-C                        19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+Objective-C              5 hrs 58 mins       ███████████░░░░░░░░░░░░░░   43.76 % 
+Markdown                 2 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
+Other                    2 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
+Python                   1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
+JSON                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 
 🔥 Editors: 
-Xcode                    8 hrs 3 mins        ██████████████░░░░░░░░░░░   54.69 % 
-Cursor                   2 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
-Zoom                     1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
-Claude Code              1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
-Notes                    50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+Xcode                    4 hrs 48 mins       █████████░░░░░░░░░░░░░░░░   35.28 % 
+Cursor                   2 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
+Claude Code              2 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
+Zoom                     1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
+VS Code                  56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
 
 💻 Operating System: 
-Mac                      14 hrs 43 mins      █████████████████████████   100.00 % 
+Mac                      13 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 07/07/2026 20:19:09 UTC
+ Last Updated on 08/07/2026 19:58:51 UTC
 <!--END_SECTION:waka-->

@@ -23,23 +23,21 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 54 mins        ████████░░░░░░░░░░░░░░░░░   32.69 % 
-Objective-C              1 hr 47 mins        ████████░░░░░░░░░░░░░░░░░   30.66 % 
-CocoaPods                52 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
-Other                    33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-Ruby                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+Markdown                 53 mins             ████████░░░░░░░░░░░░░░░░░   30.70 % 
+CocoaPods                45 mins             ███████░░░░░░░░░░░░░░░░░░   26.15 % 
+Objective-C              29 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
+Ruby                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
+TypeScript               12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
 
 🔥 Editors: 
-Cursor                   3 hrs 3 mins        █████████████░░░░░░░░░░░░   52.62 % 
-Xcode                    1 hr 39 mins        ███████░░░░░░░░░░░░░░░░░░   28.39 % 
-Claude Code              57 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
-VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
-Catpaw                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+Cursor                   1 hr 54 mins        ████████████████░░░░░░░░░   65.54 % 
+Claude Code              57 mins             ████████░░░░░░░░░░░░░░░░░   32.84 % 
+Catpaw                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
 
 💻 Operating System: 
-Mac                      5 hrs 49 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 17/07/2026 19:37:12 UTC
+ Last Updated on 18/07/2026 19:37:04 UTC
 <!--END_SECTION:waka-->

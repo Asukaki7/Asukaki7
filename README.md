@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C239%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C244%20hrs%2022%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-170%20hrs%2011%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-175%20hrs%2024%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -25,49 +25,49 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-JSON                     2 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   26.46 % 
-Objective-C              2 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   22.59 % 
-JavaScript               1 hr 43 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
-Markdown                 1 hr 34 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
-Other                    1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
+JSON                     3 hrs 38 mins       ██████░░░░░░░░░░░░░░░░░░░   23.20 % 
+Objective-C              3 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   21.99 % 
+Markdown                 3 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   20.20 % 
+JavaScript               2 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
+Other                    1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
 
 🔥 Editors: 
-Xcode                    5 hrs 18 mins       ████████████░░░░░░░░░░░░░   47.36 % 
-Zoom                     2 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   20.72 % 
-Claude Code              2 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
-Cursor                   49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
-Codex Vscode             21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+Xcode                    7 hrs 24 mins       ████████████░░░░░░░░░░░░░   47.13 % 
+Claude Code              3 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   23.74 % 
+Zoom                     1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
+Codex Vscode             56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
+Cursor                   47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 
 💻 Operating System: 
-Mac                      11 hrs 11 mins      █████████████████████████   100.00 % 
+Mac                      15 hrs 42 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 21 mins (83.58%)
+⏱ AI Coding Time: 13 hrs 24 mins (85.32%)
 
-✍️ 3,837 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 4,638 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 52,178,747 Input Tokens, 957,650 Output Tokens
+🔤 82,759,131 Input Tokens, 1,521,040 Output Tokens
 
-💵 $402.05 Estimated AI Cost This Week
+💵 $522.70 Estimated AI Cost This Week
 
-🧠 391 AI Sessions, 159 AI Prompts
+🧠 642 AI Sessions, 214 AI Prompts
 
-Opus                     2,010 lines         █████████████░░░░░░░░░░░░   53.02 % 
-Deepseek                 1,102 lines         ███████░░░░░░░░░░░░░░░░░░   29.07 % 
-GPT                      654 lines           ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
-OMP                      22 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
-Composer                 3 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Opus                     2,010 lines         █████████████░░░░░░░░░░░░   50.09 % 
+Deepseek                 1,132 lines         ███████░░░░░░░░░░░░░░░░░░   28.21 % 
+GPT                      846 lines           █████░░░░░░░░░░░░░░░░░░░░   21.08 % 
+OMP                      22 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+Composer                 3 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 16,350 characters per prompt
+📚 Verbose Prompter — average 13,608 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 16/09/2026 21:28:22 UTC
+ Last Updated on 17/09/2026 21:31:46 UTC
 <!--END_SECTION:waka-->

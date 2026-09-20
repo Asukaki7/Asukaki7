@@ -25,35 +25,35 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Objective-C              5 hrs 26 mins       ████████░░░░░░░░░░░░░░░░░   31.58 % 
-JSON                     3 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
-Markdown                 2 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
-JavaScript               2 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
-Other                    1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
+Objective-C              5 hrs 39 mins       ████████░░░░░░░░░░░░░░░░░   30.01 % 
+Markdown                 3 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
+JSON                     3 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
+JavaScript               2 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
+Other                    2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
 
 🔥 Editors: 
-Xcode                    9 hrs 36 mins       ██████████████░░░░░░░░░░░   55.76 % 
-Claude Code              2 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
-Zoom                     1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
-Cursor                   58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
-Codex Vscode             56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+Xcode                    10 hrs 20 mins      ██████████████░░░░░░░░░░░   54.88 % 
+Claude Code              2 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+Zoom                     1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
+Cursor                   1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
+Notes                    1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
 
 💻 Operating System: 
-Mac                      17 hrs 13 mins      █████████████████████████   100.00 % 
+Mac                      18 hrs 49 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 3 mins (81.64%)
+⏱ AI Coding Time: 15 hrs 25 mins (81.87%)
 
 ✍️ 4,389 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 92,493,140 Input Tokens, 1,525,026 Output Tokens
+🔤 148,868,616 Input Tokens, 1,750,501 Output Tokens
 
-💵 $556.05 Estimated AI Cost This Week
+💵 $728.49 Estimated AI Cost This Week
 
-🧠 704 AI Sessions, 229 AI Prompts
+🧠 971 AI Sessions, 240 AI Prompts
 
 Opus                     2,010 lines         ████████████░░░░░░░░░░░░░   49.75 % 
 Deepseek                 1,132 lines         ███████░░░░░░░░░░░░░░░░░░   28.02 % 
@@ -63,11 +63,11 @@ Composer                 3 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 12,566 characters per prompt
+📚 Verbose Prompter — average 11,993 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 19/09/2026 20:51:11 UTC
+ Last Updated on 20/09/2026 20:56:21 UTC
 <!--END_SECTION:waka-->

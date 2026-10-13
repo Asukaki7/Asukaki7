@@ -25,21 +25,39 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    8 mins              ████████████████████░░░░░   78.95 % 
+CocoaPods                2 mins              █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Codex Vscode             7 mins              ███████████████████░░░░░░   75.95 % 
+Cursor                   2 mins              ██████░░░░░░░░░░░░░░░░░░░   24.05 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      10 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 10 mins (100.0%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 88,684 Input Tokens, 2,313 Output Tokens
+
+💵 $0.29 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 4 AI Prompts
+
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 124 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 13/10/2026 00:51:34 UTC
+ Last Updated on 13/10/2026 22:56:51 UTC
 <!--END_SECTION:waka-->

@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C262%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C262%20hrs%2041%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-192%20hrs%2044%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-193%20hrs%2025%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -25,47 +25,48 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-XML                      18 mins             █████████░░░░░░░░░░░░░░░░   35.68 % 
-Other                    14 mins             ███████░░░░░░░░░░░░░░░░░░   28.09 % 
-Markdown                 8 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
-Objective-C              6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
-CocoaPods                2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+Objective-C              1 hr                ████████████░░░░░░░░░░░░░   47.29 % 
+XML                      30 mins             ██████░░░░░░░░░░░░░░░░░░░   23.83 % 
+Other                    20 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
+Markdown                 8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
+Ruby                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
 
 🔥 Editors: 
-Claude Code              32 mins             ████████████████░░░░░░░░░   62.91 % 
-Codex Vscode             9 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
-OMP                      6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
-Cursor                   3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
+Codex Vscode             1 hr 15 mins        ███████████████░░░░░░░░░░   58.79 % 
+Claude Code              32 mins             ██████░░░░░░░░░░░░░░░░░░░   25.08 % 
+OMP                      12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+Cursor                   8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
 
 💻 Operating System: 
-Mac                      51 mins             █████████████████████████   100.00 % 
+Mac                      2 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 51 mins (100.0%)
+⏱ AI Coding Time: 2 hrs 8 mins (100.0%)
 
-✍️ 20 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 136 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 2,528,311 Input Tokens, 87,201 Output Tokens
+🔤 5,321,111 Input Tokens, 176,265 Output Tokens
 
-💵 $12.23 Estimated AI Cost This Week
+💵 $23.48 Estimated AI Cost This Week
 
-🧠 59 AI Sessions, 14 AI Prompts
+🧠 93 AI Sessions, 27 AI Prompts
 
-Opus                     421 lines           █████████████████████████   100.00 % 
+Opus                     421 lines           ████████████████████░░░░░   78.25 % 
+GPT                      117 lines           █████░░░░░░░░░░░░░░░░░░░░   21.75 % 
 DeepSeek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+OMP                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 91 characters per prompt
+📝 Concise Prompter — average 90 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 14/10/2026 21:49:04 UTC
+ Last Updated on 15/10/2026 21:32:55 UTC
 <!--END_SECTION:waka-->

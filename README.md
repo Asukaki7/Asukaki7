@@ -15,59 +15,59 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C266%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C271%20hrs%205%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-196%20hrs%2054%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-200%20hrs%204%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                    5 hrs 54 mins       ██████████░░░░░░░░░░░░░░░   39.66 % 
-Objective-C              5 hrs 20 mins       █████████░░░░░░░░░░░░░░░░   35.92 % 
-Bash                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
-Python                   32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
-XML                      32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+Objective-C              9 hrs 30 mins       ██████████░░░░░░░░░░░░░░░   40.55 % 
+Other                    6 hrs 42 mins       ███████░░░░░░░░░░░░░░░░░░   28.65 % 
+XML                      2 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
+CocoaPods                1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+Python                   57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
 
 🔥 Editors: 
-Zoom                     4 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   29.46 % 
-Codex Vscode             4 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   28.46 % 
-Xcode                    3 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
-OMP                      1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
-Claude Code              33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+Xcode                    5 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   23.13 % 
+Claude Code              4 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   20.89 % 
+Zoom                     4 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
+Codex Vscode             4 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
+OMP                      3 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
 
 💻 Operating System: 
-Mac                      14 hrs 53 mins      █████████████████████████   100.00 % 
+Mac                      23 hrs 25 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 19 mins (49.17%)
+⏱ AI Coding Time: 14 hrs 43 mins (62.86%)
 
-✍️ 2,414 lines written by AI, 22 lines written by hand (99.1% AI-written)
+✍️ 4,495 lines written by AI, 45 lines written by hand (99.01% AI-written)
 
-🔤 41,067,673 Input Tokens, 856,068 Output Tokens
+🔤 163,930,060 Input Tokens, 1,714,158 Output Tokens
 
-💵 $148.50 Estimated AI Cost This Week
+💵 $564.94 Estimated AI Cost This Week
 
-🧠 565 AI Sessions, 90 AI Prompts
+🧠 1198 AI Sessions, 150 AI Prompts
 
-GPT                      2,411 lines         █████████████████████░░░░   85.13 % 
-Opus                     421 lines           ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
+GPT                      2,869 lines         ████████████████░░░░░░░░░   62.09 % 
+Opus                     1,519 lines         ████████░░░░░░░░░░░░░░░░░   32.87 % 
+Sonnet                   233 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
 DeepSeek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 OMP                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.1% of written lines came from AI
-📝 Concise Prompter — average 262 characters per prompt
+🤖 AI-Driven — 99.01% of written lines came from AI
+📄 Detailed Prompter — average 652 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🚀 High AI Trust — 26.46% of changed lines were hand-edited
+🚀 High AI Trust — 18.4% of changed lines were hand-edited
 ```
 
 
- Last Updated on 20/10/2026 21:44:22 UTC
+ Last Updated on 21/10/2026 21:51:04 UTC
 <!--END_SECTION:waka-->
